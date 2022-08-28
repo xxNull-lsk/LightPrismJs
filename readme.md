@@ -30,7 +30,13 @@
 .post-content pre code ,.comment-content pre code {
     padding: 1.5em 2em;
 }
-
+.post-content p code, .comment-content p code {
+    display:inline;
+    margin:0 5px;
+    padding:3px 5px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
 ```
 
 
