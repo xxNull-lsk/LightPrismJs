@@ -1,9 +1,9 @@
 <?php
 
 /**
- * PrismJs 代码高亮插件 for Typecho
+ * LightPrismJs 代码高亮插件 
  *
- * @package PrismJs
+ * @package LightPrismJs
  * @author Allan
  * @version 1.0.0
  * @link https://home.mydata.top:8683
