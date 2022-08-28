@@ -1,4 +1,13 @@
+/*内联code的样式*/
+.post-content code, .comment-content code {
+    display: inline;
+    margin: 0 5px;
+    padding: 3px 5px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
 
+/*code块的样式*/
 code[class*="language-"],
 pre[class*="language-"] {
 	font-family: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
