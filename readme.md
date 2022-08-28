@@ -2,6 +2,8 @@
 
 基于prismjs的代码语法高亮typecho插件，支持众多常见的代码语言高亮显示，各种代码高亮风格自由切换，支持显示代码语言类型、行号，支持复制代码到剪切板。
 
+![](readme.assets/2022-08-28-21-22-51-20220828212112.png)
+
 # 起因
 
 尝试了各种代码高亮插件（ColorHighlight、Code Prettify等等）。结果发现都有各种兼容问题，效果不太理想。所以，研究了一下prismjs。没有对prismjs做任何调整，仅仅是把prismjs嵌入到了typecho里面。
@@ -17,8 +19,6 @@
 # 升级
 
 因为没有对prismjs做任何调整。所以，可以从[Prism官网](https://prismjs.com/download.html)下载后直接覆盖更新。
-
-
 
 # 常见问题
 
@@ -38,5 +38,3 @@
     border-radius: 4px;
 }
 ```
-
-
